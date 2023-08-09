@@ -12,7 +12,7 @@ on:
   push:
     branches:
     - main
-    - master
+  #  - master
     
   # 一个GitHub Actions的工作流（workflow）
   # 用于自动生成GitHub贡献格子蛇动画并将其推送到指定的分支或GitHub Pages上
