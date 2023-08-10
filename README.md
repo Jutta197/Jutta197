@@ -4,6 +4,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jutta197/Jutta197/output/github-contribution-grid-snake.svg">
 </picture>
 
-❤ Major in German & Code for Fun 
+❤ Major in German & Coding for Fun 
 
 
